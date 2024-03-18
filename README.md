@@ -1,5 +1,5 @@
 - 👋 Hey There, I’m Kruthin Reddy
-- I'm Kruthin, a backend developer passionate about building efficient and scalable software solutions.
+- A backend developer passionate about building efficient and scalable software solutions.
 - Here you'll find a collection of projects, experiments, and contributions that reflect my journey in the world of coding and data structures.
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I'm currently mastering Data Structures and Algorithms.
