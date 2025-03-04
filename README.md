@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey There, I’m Kruthin Reddy<br>A backend developer passionate about building efficient and scalable software solutions.<br>Here you'll find a collection of projects, experiments, and contributions that reflect my journey in the world of coding and data structures.<br>👀 I’m interested in Full Stack Development.<br>🌱 I'm currently mastering Data Structures and Algorithms.<br>💞️ I’m looking to collaborate on Machine Learning and Blockchain projects.<br>🚀 I'm passionate about crafting clean and maintainable code.<br>💼 I'm working on backend projects focusing on performance and reliability.<br>💬 Ask me about Java, Python, C, HTML, CSS, or anything related to backend development.<br>📫 How to reach me: rikkykruthin@gmail.com.
+👋 Hey There, I’m Kruthin Reddy<br>A full stack developer and Machine Learning enthusiast passionate about building efficient and scalable software solutions.<br>Here you'll find a collection of projects, experiments, and contributions that reflect my journey in the world of coding and data structures.<br>👀 I’m interested in Full Stack Development and Machine Learning.<br>🌱 I'm currently mastering Data Structures and Algorithms.<br>💞️ I’m looking to collaborate on Machine Learning and Blockchain projects.<br>🚀 I'm passionate about crafting clean and maintainable code.<br>💼 I'm working on backend projects focusing on performance and reliability.<br><br>📫 How to reach me: rikkykruthin@gmail.com.
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Rikkykruthin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
