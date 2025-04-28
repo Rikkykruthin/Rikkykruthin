@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 Hey There, I’m Kruthin Reddy<br>A full stack developer and Machine Learning enthusiast passionate about building efficient and scalable software solutions.<br>Here you'll find a collection of projects, experiments, and contributions that reflect my journey in the world of coding and data structures.<br>👀 I’m interested in Full Stack Development and Machine Learning.<br>🌱 I'm currently mastering Data Structures and Algorithms.<br>💞️ I’m looking to collaborate on Machine Learning and Blockchain projects.<br>🚀 I'm passionate about crafting clean and maintainable code.<br>💼 I'm working on backend projects focusing on performance and reliability.<br><br>📫 How to reach me: rikkykruthin@gmail.com.
 
-https://media4.giphy.com/media/7vdlbr6lcVAmGK7lhB/giphy.gif?cid=6c09b952mk1xlp5yh5dacqs6cs2l1xkk8onoey24z5vd6x4c&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g
+
+![https___i_pinimg com_originals_34_17_f4_3417f49a547682eb7b18c17ef8476f09](https://github.com/user-attachments/assets/0fc88732-f440-49d1-904e-e899e1106866)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kruthin_reddy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kruthin-reddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rikkykruthin@gmail.com) 
